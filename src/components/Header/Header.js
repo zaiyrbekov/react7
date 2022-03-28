@@ -1,11 +1,11 @@
-// import Nav from "../Nav/Nav";
+import Nav from "../Nav/Nav";
 
-// function Header() {
-//   return (
-//     <header >
-//       <Nav />
-//     </header>
-//   );
-// }
+function Header() {
+  return (
+    <header >
+      <Nav />
+    </header>
+  );
+}
 
-// export default Header;
+export default Header;
