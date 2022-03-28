@@ -1,0 +1,13 @@
+.useing{
+  flex: 30%;
+  overflow: hidden;
+  border: 2px solid black;
+  padding: 8px;
+  background-color: rgb(221, 159, 136);
+  margin: 2%;
+ 
+}
+.userrs{
+  display: flex;
+  justify-content: space-between;
+}
