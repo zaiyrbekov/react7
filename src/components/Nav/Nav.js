@@ -1,6 +1,6 @@
 import "./Nav.css";
 function Nav() {
-  const rightLinks = ["link3", "link4", "link5"];
+  const rightLinks = ["link3", "link4", "link5", ""];
   const leftLinks = ["link1", "link2"];
 
   const left = leftLinks.map((leftLink) => {

@@ -1,0 +1,8 @@
+.tables{
+  width: 80%;
+  margin: 0 auto;
+  border: 2px solid rgb(25, 196, 25);
+}
+td{
+  border: 1px solid rgba(59, 238, 59, 0.767);
+}
