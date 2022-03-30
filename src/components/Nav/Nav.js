@@ -5,8 +5,8 @@ function Nav() {
 
   const left = leftLinks.map((leftLink) => {
     return (
-      <li >
-        <a key={id} href="">{leftLink}</a>
+      <li key={indexOF}>
+        <a href="">{leftLink}</a>
       </li>
     );
   });
