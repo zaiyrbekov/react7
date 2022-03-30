@@ -47,7 +47,7 @@ function Cards() {
   ];
   const cardsList = cards.map((card) => (
     <div className="cardes">
-      <img src="card.url" />
+        <img src={card.url} alt=""/>
       <h4>{card.id}</h4>
       <p>{card.title}</p>
     </div>
