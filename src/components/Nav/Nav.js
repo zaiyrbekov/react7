@@ -13,7 +13,7 @@ function Nav() {
   const right = rightLinks.map((rightLink) => {
     return (
       <li >
-        <a key={id} href="">{rightLink}</a>
+        <a  href="">{rightLink}</a>
       </li>
     );
   });
