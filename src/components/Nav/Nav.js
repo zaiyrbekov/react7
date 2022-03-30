@@ -12,7 +12,7 @@ function Nav() {
   });
   const right = rightLinks.map((rightLink) => {
     return (
-      <li >
+      <li key={indexOF} >
         <a  href="">{rightLink}</a>
       </li>
     );
