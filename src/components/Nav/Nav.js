@@ -5,15 +5,15 @@ function Nav() {
 
   const left = leftLinks.map((leftLink) => {
     return (
-      <li key={id}>
-        <a href="">{leftLink}</a>
+      <li >
+        <a key={id} href="">{leftLink}</a>
       </li>
     );
   });
   const right = rightLinks.map((rightLink) => {
     return (
-      <li key={id}>
-        <a href="">{rightLink}</a>
+      <li >
+        <a key={id} href="">{rightLink}</a>
       </li>
     );
   });
